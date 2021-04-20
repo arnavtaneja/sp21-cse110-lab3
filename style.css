@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+  
+/* changes color of the h1s*/
+
+h1 {
+    text-align: center;
+    color: navy;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+p {
+    text-align : center;
+}
